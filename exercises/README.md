@@ -1,6 +1,6 @@
-Exercise 4: **"Fλy"**
+**Exercise 4:** "Fλy"
 
-Team: **HongCheng and Alex**
+**Team:** HongCheng and Alex
 
 **[Playable link to game]**(https://zhang-ale.github.io/game615-spring2023/exercises/exercise04/play/) 
 
