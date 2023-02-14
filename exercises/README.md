@@ -1,4 +1,4 @@
-**Exercise 4:** "Fλy"
+**Exercise 4:** _"Fλy"_
 
 **Team:** HongCheng and Alex
 
