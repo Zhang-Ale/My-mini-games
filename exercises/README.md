@@ -1,7 +1,7 @@
-Exercise 1
+Exercise 4
 
-Team: XXX and XXX 
+Team: HongCheng and Alex
 
-[Playable link to game](https://zhang-ale.github.io/game615-spring2023/exercises/exercise01/play/) 
+[Playable link to game](https://zhang-ale.github.io/game615-spring2023/exercises/exercise04/play/) 
 
-[Link to source](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise01) 
+[Link to source](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise04) 
