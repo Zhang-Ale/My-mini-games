@@ -7886,6 +7886,7 @@ MonoBehaviour:
   explosion: {fileID: 1145576440}
   spawnPoint: {fileID: 2109260936}
   restartText: {fileID: 1363391527}
+  won: 0
 --- !u!114 &871604316
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7898,7 +7899,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7107183f9b6c667408bda79c4a860d60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CoinsNeeded: 1
+  CoinsNeeded: 8
   CoinsCollisionTag: Coin
   ObstaclesCollisionTag: Obstacle
   countText: {fileID: 1953386066}
