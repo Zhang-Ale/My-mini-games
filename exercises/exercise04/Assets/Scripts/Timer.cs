@@ -25,7 +25,7 @@ public class Timer : MonoBehaviour
     {
         if (!timeOver)
         {
-            currentTime = countDown ? currentTime -= Time.deltaTime : currentTime += Time.deltaTime;
+            currentTime = countDown ? currentTime - Time.deltaTime : currentTime + Time.deltaTime;
         }
 
         if(hasLimit && ((countDown && currentTime <= timerLimit) || (!countDown && currentTime >= timerLimit)))

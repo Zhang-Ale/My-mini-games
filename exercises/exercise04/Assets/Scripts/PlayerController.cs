@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour
         won = false;
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (CC.alive)
         {
@@ -69,7 +69,7 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetKey(KeyCode.Space)) 
         { 
-            rb.AddForce(0, 20, 0);
+            rb.AddForce(0, 30, 0);
         }
 
         if (Input.GetKey("s")) 
