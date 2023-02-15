@@ -3,7 +3,7 @@
 **Team:** HongCheng and Alex
 
 **How to play:** 
-W, A, D to move. 
+W, A, D to move forward and rotate. 
 Spacebar to increase elevation, S to decrease elevation. 
 
 **Game goal:** 
