@@ -1,15 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
-using TMPro; 
+using TMPro;
 
 public class CoinController : MonoBehaviour
 {
     public int CoinsNeeded;
     public string CoinsCollisionTag;
     public string ObstaclesCollisionTag;
-    //public GameObject ObjectToToggle;
     public TextMeshProUGUI countText;
     public TextMeshProUGUI endText;
     public bool alive;
@@ -45,7 +43,7 @@ public class CoinController : MonoBehaviour
             other.gameObject.SetActive(false);
             AS.Play();
             count = count + 1;
-            SetCountText ();
+            SetCountText();
         }
 
         if (other.gameObject.CompareTag(ObstaclesCollisionTag))
@@ -62,13 +60,8 @@ public class CoinController : MonoBehaviour
         {
             gameEnd = true; 
             endText.text = "You Won!";
-            PC.Restart(); 
+            PC.won = true;          
         }
-
-        /*if (count >= CoinsNeeded)
-        {
-            ObjectToToggle.SetActive(!ObjectToToggle.activeInHierarchy);
-        }*/
     }
 
     public void OnLose()

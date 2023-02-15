@@ -7898,7 +7898,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7107183f9b6c667408bda79c4a860d60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CoinsNeeded: 8
+  CoinsNeeded: 1
   CoinsCollisionTag: Coin
   ObstaclesCollisionTag: Obstacle
   countText: {fileID: 1953386066}
@@ -11372,7 +11372,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh26704
+  m_Name: pb_Mesh23962
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2

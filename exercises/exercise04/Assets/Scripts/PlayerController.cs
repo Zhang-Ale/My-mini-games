@@ -11,7 +11,8 @@ public class PlayerController : MonoBehaviour
     public ParticleSystem leftSmoke, rightSmoke;
     public ParticleSystem explosion;
     public Transform spawnPoint;
-    public GameObject restartText; 
+    public GameObject restartText;
+    public bool won; 
     CoinController CC; 
     float forwardForce = 500;
     float sidewaysForce = 100;
@@ -22,6 +23,7 @@ public class PlayerController : MonoBehaviour
         CC = GetComponent<CoinController>();
         spawnPoint.position = transform.position;
         restartText.SetActive(false);
+        won = false;
     }
 
     void Update()
@@ -33,6 +35,11 @@ public class PlayerController : MonoBehaviour
         else
         {
             OnDeath();
+        }
+
+        if (won)
+        {
+            Restart();
         }
     }
 
