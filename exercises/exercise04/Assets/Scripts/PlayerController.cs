@@ -69,7 +69,7 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetKey(KeyCode.Space)) 
         { 
-            rb.AddForce(0, 25, 0);
+            rb.AddForce(0, 20, 0);
         }
 
         if (Input.GetKey("s")) 

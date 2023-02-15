@@ -38,6 +38,7 @@ public class Timer : MonoBehaviour
 
         if(currentTime <= 0 && CC.needCoins || !CC.alive)
         {
+            hasLimit = false; 
             CC.OnLose();
             StopCounting(); 
         }
