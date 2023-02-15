@@ -16,6 +16,7 @@ public class CoinController : MonoBehaviour
     public bool needCoins;
     public bool gameEnd; 
     public AudioSource AS;
+
     private int count;
     PlayerController PC; 
 
@@ -49,7 +50,6 @@ public class CoinController : MonoBehaviour
 
         if (other.gameObject.CompareTag(ObstaclesCollisionTag))
         {
-            //change other.gameObject.material.color; 
             OnLose();
             alive = false;
         }
