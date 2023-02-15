@@ -1,4 +1,4 @@
-**Exercise 4:** _"Fλy"_
+**Exercise 4:** _"Pιnκy Sιmuλaτor"_
 
 **Team:** HongCheng and Alex
 
