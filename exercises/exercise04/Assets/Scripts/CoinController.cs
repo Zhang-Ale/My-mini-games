@@ -43,7 +43,7 @@ public class CoinController : MonoBehaviour
 
     void SetCountText()
     {
-        countText.text = "Coins collected: " + count.ToString();
+        countText.text = "Coins Collected: " + count.ToString();
         if (count >= CoinsNeeded)
         {
             endText.text = "You Win!"; 
