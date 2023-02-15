@@ -12,17 +12,21 @@ public class Timer : MonoBehaviour
 
     public bool hasLimit;
     public float timerLimit;
+    public bool timeOver; 
 
-    // Start is called before the first frame update
-    void Start()
+    public CoinController CC;
+
+    private void Start()
     {
-    
+        timeOver = false; 
     }
 
-    // Update is called once per frame
     void Update()
     {
-        currentTime = countDown ? currentTime -= Time.deltaTime : currentTime += Time.deltaTime;
+        if (!timeOver)
+        {
+            currentTime = countDown ? currentTime -= Time.deltaTime : currentTime += Time.deltaTime;
+        }
 
         if(hasLimit && ((countDown && currentTime <= timerLimit) || (!countDown && currentTime >= timerLimit)))
         {
@@ -30,6 +34,17 @@ public class Timer : MonoBehaviour
             SetTimerText();
             timerTxt.color = Color.red;
             enabled = false;
+        }
+
+        if(currentTime <= 0 && CC.needCoins || !CC.alive)
+        {
+            CC.OnLose();
+            StopCounting(); 
+        }
+
+        if (CC.gameEnd)
+        {
+            StopCounting();
         }
 
         SetTimerText();
@@ -40,5 +55,10 @@ public class Timer : MonoBehaviour
         {
             timerTxt.text = currentTime.ToString("Time Remaining: " + "0");
         }
+    }
+
+    void StopCounting()
+    {
+        timeOver = true;
     }
 }

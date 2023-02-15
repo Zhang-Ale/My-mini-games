@@ -12,23 +12,37 @@ public class CoinController : MonoBehaviour
     //public GameObject ObjectToToggle;
     public TextMeshProUGUI countText;
     public TextMeshProUGUI endText;
-    public bool alive; 
+    public bool alive;
+    public bool needCoins;
+    public bool gameEnd; 
+    public AudioSource AS;
     private int count;
-    
+    PlayerController PC; 
+
     void Start()
     {
+        PC = GetComponent<PlayerController>();
         count = 0;
         SetCountText();
         countText.text = "Coins collected: " + count.ToString();
         endText.text = " ";
         alive = true; 
     }
-    
+
+    private void Update()
+    {
+        if (count <= CoinsNeeded)
+        {
+            needCoins = true; 
+        }
+    }
+
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag(CoinsCollisionTag))
         {
             other.gameObject.SetActive(false);
+            AS.Play();
             count = count + 1;
             SetCountText ();
         }
@@ -36,8 +50,8 @@ public class CoinController : MonoBehaviour
         if (other.gameObject.CompareTag(ObstaclesCollisionTag))
         {
             //change other.gameObject.material.color; 
-            endText.text = "You Lose!";
-            alive = false; 
+            OnLose();
+            alive = false;
         }
     }
 
@@ -46,12 +60,20 @@ public class CoinController : MonoBehaviour
         countText.text = "Coins Collected: " + count.ToString();
         if (count >= CoinsNeeded)
         {
-            endText.text = "You Win!"; 
+            gameEnd = true; 
+            endText.text = "You Won!";
+            PC.Restart(); 
         }
 
         /*if (count >= CoinsNeeded)
         {
             ObjectToToggle.SetActive(!ObjectToToggle.activeInHierarchy);
         }*/
+    }
+
+    public void OnLose()
+    {
+        endText.text = "You Lost!";
+        PC.Restart();
     }
 }

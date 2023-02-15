@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody>();
         CC = GetComponent<CoinController>();
-        transform.position = spawnPoint.position;
+        spawnPoint.position = transform.position;
         restartText.SetActive(false);
     }
 
@@ -76,7 +76,12 @@ public class PlayerController : MonoBehaviour
         rb.AddForce(0, 0, forwardForce * Time.deltaTime);
         rb.AddForce(0, -5, 0);
         explosion.Play();
-        restartText.SetActive(true); 
+        Restart(); 
+    }
+
+    public void Restart()
+    {
+        restartText.SetActive(true);
         if (Input.GetKeyDown("r"))
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
