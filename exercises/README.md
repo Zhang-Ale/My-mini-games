@@ -11,7 +11,7 @@ Get as many Starbucks coffee as you can! Once you get a coffee, the Starbucks Ki
 **Special feature:** 
 Try to press the Sprint input many times to see what happens. 
 
-[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023-05/exercise05/play/) 
+[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023/exercises/exercise05/play/) 
 
 [**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023-05) 
 
