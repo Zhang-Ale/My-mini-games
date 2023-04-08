@@ -128,11 +128,15 @@ ________________________________________________________
 ________________________________________________________
 
 
-**Exercise 06:** Feast competition
+**Exercise 06:** _"Feast competition"_
  
 **Group team:** Sara and HongCheng
 
-Description: You are playing as a vampire, and your goal is collect more **brains** than the zombies. 
+**How to play:** 
+Left mouse click to move. 
+
+**Game goal:** 
+Play as a vampire and collect more **brains** than the zombies. 
 
 [Playable link to game](https://SaraHashemii.github.io/game615-spring2023-06/exercise06/play/)
  
