@@ -179,7 +179,7 @@ ________________________________________________________
 **Group team:** HongCheng Zhang, Yihua Pu
 
 **How to play:** 
-WASD to move, I to interact, Space to jump and continue dialogue. 
+WD to move, I to interact, Space to jump and continue dialogue. 
 
 **Game goal:**
 Speak with the NPC. 
@@ -188,4 +188,4 @@ Speak with the NPC.
 
 [**Source link**](https://zhang-ale.github.io/game615-spring2023-07/tree/main/)
 
-**Plugin:** Ink (Unity plugin - https://github.com/inkle/ink-unity-integration)
+**Plugin:** [Ink - Unity plugin](https://github.com/inkle/ink-unity-integration)
