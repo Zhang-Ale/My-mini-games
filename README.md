@@ -1,6 +1,20 @@
 # game615-spring2023
  
  
+**Exercise 1:** _"Pιnκy Pλane Sιmuλaτor"_
+
+**Individual team:** HongCheng
+
+**How to play:** 
+W, A, D to move forward and rotate. 
+Spacebar to increase elevation, S to decrease elevation. 
+
+**Game goal:** 
+Collect **8 coins in 2 minutes** to win!
+
+[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023/exercises/exercise01/play/) 
+
+[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise01) 
 
 ________________________________________________________
 
