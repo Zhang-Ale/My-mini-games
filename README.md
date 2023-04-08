@@ -162,7 +162,7 @@ Press the keyboard buttons to play.
 Hit as many point as you can! 
 
 **Game reference:** 
-Genshin Impact's rhythm game ([Video link](https://youtu.be/1SY0WK3TPq0))
+Genshin Impact's rhythm game ([**Video link**](https://youtu.be/1SY0WK3TPq0))
 
 [**Playable link to game**](https://zhang-ale.github.io/game615-spring2023-midterm/play/)
  
@@ -188,4 +188,4 @@ Speak with the NPC.
 
 [**Source link**](https://github.com/Zhang-Ale/game615-spring2023-07/tree/main/)
 
-**Plugin:** [Ink-Unity plugin](https://github.com/inkle/ink-unity-integration)
+**Plugin:** [**Ink-Unity plugin**](https://github.com/inkle/ink-unity-integration)
