@@ -16,6 +16,7 @@ Wait for the fish to fall into the void!
 [**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise01) 
 
 **Assets Attribution:**
+
 https://www.kenney.nl/assets/survival-kit
 
 ________________________________________________________
@@ -38,6 +39,7 @@ Have fun shooting cannon balls!
 [**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise02) 
 
 **Assets Attribution:**
+
 https://www.kenney.nl/assets/pirate-kit
 
 ________________________________________________________
@@ -60,6 +62,7 @@ Obtain 3 pink hearts and discover the 2 hidden audio effects in the game.
 [**Source link**](https://github.com/AlexJ1889/game615-spring2023-03/tree/main/exercise03)
 
 **Asset Attribution:**
+
 Fire Truck by Ivan Klus [CC-BY] via Poly Pizza
 Rubber Duck by Poly by Google [CC-BY] via Poly Pizza
 Toy train by Jair Trejo [CC-BY] via Poly Pizza
@@ -119,6 +122,7 @@ Try to press the Sprint input many times to see what happens.
 [**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise05) 
 
 **Asset Attribution:**
+
 Coffee cup by Poly by Google [CC-BY] via Poly Pizza
 
 
@@ -143,6 +147,7 @@ Play as a vampire and collect more **brains** than the zombies.
 [**Source link**](https://github.com/SaraHashemii/game615-spring2023-06/tree/main/exercise06)
  
 **Asset Attribution:**
+
 Brain by Poly by Google [CC-BY] via Poly Pizza, 
 Low-Poly Park assest by Thunderent from Unity asset store. 
 
@@ -209,6 +214,7 @@ Collect keys to open the keyholes.
 [**Source link**](https://github.com/lindenkillam/game615-spring2023-08/tree/main/exercise08) 
 
 **Asset Attribution:**
+
 Keyhole by Poly by Google [CC-BY] via Poly Pizza (different versions)<br>
 Key by Quaternius (several versions)<br>
 Pizza Steve by Stephen Myer [CC-BY] via Poly Pizza<br>
