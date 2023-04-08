@@ -55,9 +55,9 @@ WASD to move, Space to jump.
 **Game goal:** 
 Obtain 3 pink hearts and discover the 2 hidden audio effects in the game. 
 
-[Link to Game](https://alexj1889.github.io/game615-spring2023-03/exercise03/play/) 
+[**Link to Game**](https://alexj1889.github.io/game615-spring2023-03/exercise03/play/) 
 
-[Source link](https://github.com/AlexJ1889/game615-spring2023-03/tree/main/exercise03)
+[**Source link**](https://github.com/AlexJ1889/game615-spring2023-03/tree/main/exercise03)
 
 **Asset Attribution:**
 Fire Truck by Ivan Klus [CC-BY] via Poly Pizza
