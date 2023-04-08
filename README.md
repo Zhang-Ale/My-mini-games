@@ -188,4 +188,4 @@ Speak with the NPC.
 
 [**Source link**](https://zhang-ale.github.io/game615-spring2023-07/tree/main/)
 
-**Plugin:** [Ink - Unity plugin](https://github.com/inkle/ink-unity-integration)
+**Plugin:** [Ink-Unity plugin](https://github.com/inkle/ink-unity-integration)
