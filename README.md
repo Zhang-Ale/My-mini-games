@@ -1,16 +1,15 @@
 # game615-spring2023
  
  
-**Exercise 1:** _"Pιnκy Pλane Sιmuλaτor"_
+**Exercise 1:** _"Falling fish"_
 
 **Individual team:** HongCheng
 
 **How to play:** 
-W, A, D to move forward and rotate. 
-Spacebar to increase elevation, S to decrease elevation. 
+Load the page. 
 
 **Game goal:** 
-Collect **8 coins in 2 minutes** to win!
+Wait for the fish to fall into the void!
 
 [**Playable link to game**](https://zhang-ale.github.io/game615-spring2023/exercises/exercise01/play/) 
 
@@ -20,7 +19,25 @@ ________________________________________________________
 
 
 ________________________________________________________
+ 
+**Exercise 2:** _"Falling fish"_
 
+**Individual team:** HongCheng
+
+**How to play:** 
+Load the page. 
+
+**Game goal:** 
+Wait for the fish to fall into the void!
+
+[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023/exercises/exercise02/play/) 
+
+[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise02) 
+
+________________________________________________________
+
+
+________________________________________________________
 
 **Exercise 4:** _"Pιnκy Pλane Sιmuλaτor"_
 
