@@ -20,15 +20,15 @@ ________________________________________________________
 
 ________________________________________________________
  
-**Exercise 2:** _"Falling fish"_
+**Exercise 2:** _"Ship fight"_
 
 **Individual team:** HongCheng
 
 **How to play:** 
-Load the page. 
+Right mouse click to shoot the cannon balls. 
 
 **Game goal:** 
-Wait for the fish to fall into the void!
+Have fun shooting cannon balls! 
 
 [**Playable link to game**](https://zhang-ale.github.io/game615-spring2023/exercises/exercise02/play/) 
 
