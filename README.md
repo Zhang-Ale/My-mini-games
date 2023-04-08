@@ -138,9 +138,9 @@ Left mouse click to move.
 **Game goal:** 
 Play as a vampire and collect more **brains** than the zombies. 
 
-[Playable link to game](https://SaraHashemii.github.io/game615-spring2023-06/exercise06/play/)
+[**Playable link to game**](https://SaraHashemii.github.io/game615-spring2023-06/exercise06/play/)
  
-[Source link](https://github.com/SaraHashemii/game615-spring2023-06/tree/main/exercise06)
+[**Source link**](https://github.com/SaraHashemii/game615-spring2023-06/tree/main/exercise06)
  
 **Asset Attribution:**
 Brain by Poly by Google [CC-BY] via Poly Pizza, 
@@ -161,8 +161,9 @@ Press the keyboard buttons to play.
 **Game goal:**
 Hit as many point as you can! 
 
-Game reference: Genshin Impact's rhythm game ([Video link](https://youtu.be/1SY0WK3TPq0))
+**Game reference:** 
+Genshin Impact's rhythm game ([Video link](https://youtu.be/1SY0WK3TPq0))
 
-[Playable link to game](https://zhang-ale.github.io/game615-spring2023-midterm/play/)
+[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023-midterm/play/)
  
-[Source link](https://github.com/Zhang-Ale/game615-spring2023-midterm/tree/main/)
+[**Source link**](https://github.com/Zhang-Ale/game615-spring2023-midterm/tree/main/)
