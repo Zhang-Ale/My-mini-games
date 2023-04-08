@@ -116,7 +116,7 @@ Try to press the Sprint input many times to see what happens.
 
 [**Playable link to game**](https://zhang-ale.github.io/game615-spring2023/exercises/exercise05/play/) 
 
-[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises) 
+[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise05) 
 
 **Asset Attribution:**
 Coffee cup by Poly by Google [CC-BY] via Poly Pizza
