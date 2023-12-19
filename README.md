@@ -3,42 +3,12 @@
  
 **Exercise 1:** _"Falling fish"_ (deleted)
 
-**Individual team:** HongCheng
-
-**How to play:** 
-Load the page. 
-
-**Game goal:** 
-Wait for the fish to fall into the void!
-
-[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023/exercises/exercise01/play/) 
-
-[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise01) 
-
-**Assets Attribution:**
-https://www.kenney.nl/assets/survival-kit
-
 ________________________________________________________
 
 
 ________________________________________________________
  
 **Exercise 2:** _"Ship fight"_ (deleted)
-
-**Individual team:** HongCheng
-
-**How to play:** 
-Right mouse click to shoot the cannon balls. 
-
-**Game goal:** 
-Have fun shooting cannon balls! 
-
-[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023/exercises/exercise02/play/) 
-
-[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise02) 
-
-**Assets Attribution:**
-https://www.kenney.nl/assets/pirate-kit
 
 ________________________________________________________
 
@@ -194,30 +164,14 @@ ________________________________________________________
 
 ________________________________________________________
 
-**Exercise 08:** _"The room"_
- 
-**Group team:** Linden Killam, Hongcheng Zhang
+**Exercise 08:** _"The room"_ (deleted)
 
-**How to play:** 
-WASD to move, left-mouse click to click the button. 
-
-**Game goal:** 
-Collect keys to open the keyholes.
-
-[**Playable link to game**](https://lindenkillam.github.io/game615-spring2023-08/exercise08/play/) 
-
-[**Source link**](https://github.com/lindenkillam/game615-spring2023-08/tree/main/exercise08) 
-
-**Asset Attribution:**
-Keyhole by Poly by Google [CC-BY] via Poly Pizza (different versions)<br>
-Key by Quaternius (several versions)<br>
-Pizza Steve by Stephen Myer [CC-BY] via Poly Pizza<br>
 ________________________________________________________
 
 
 ________________________________________________________
 
-**Final:** _"Game name"_
+**Final:** _"King's quest"_
 
 **Student:** Olubunmi Adeloye, HongCheng Zhang. 
 
