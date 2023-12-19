@@ -1,7 +1,7 @@
 # game615-spring2023
  
  
-**Exercise 1:** _"Falling fish"_
+**Exercise 1:** _"Falling fish"_ (deleted)
 
 **Individual team:** HongCheng
 
@@ -23,7 +23,7 @@ ________________________________________________________
 
 ________________________________________________________
  
-**Exercise 2:** _"Ship fight"_
+**Exercise 2:** _"Ship fight"_ (deleted)
 
 **Individual team:** HongCheng
 
