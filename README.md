@@ -1,4 +1,4 @@
-# 2 Mini prototype games
+# My mini games
 
 **Game 1** _"Pιnκy Pλane Sιmuλaτor"_
 
@@ -20,7 +20,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-**Exercise 5:** _"Coffee run"_
+**Game 2** _"Coffee run"_
 
 **Group team:** HongCheng, MingHeng and Justin
 
