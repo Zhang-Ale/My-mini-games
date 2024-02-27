@@ -1,57 +1,6 @@
-# game615-spring2023
- 
- 
-**Exercise 1:** _"Falling fish"_ (deleted)
+# 2 Mini prototype games
 
-________________________________________________________
-
-
-________________________________________________________
- 
-**Exercise 2:** _"Ship fight"_ (deleted)
-
-________________________________________________________
-
-
-________________________________________________________
-
-**Exercise 3:** _"Dream maze"_
-
-**Group team:** Alex and HongCheng 
-
-**How to play:** 
-WASD to move, Space to jump. 
-
-**Game goal:** 
-Obtain 3 pink hearts and discover the 2 hidden audio effects in the game. 
-
-[**Link to Game**](https://alexj1889.github.io/game615-spring2023-03/exercise03/play/) 
-
-[**Source link**](https://github.com/AlexJ1889/game615-spring2023-03/tree/main/exercise03)
-
-**Asset Attribution:**
-Fire Truck by Ivan Klus [CC-BY] via Poly Pizza, 
-Rubber Duck by Poly by Google [CC-BY] via Poly Pizza, 
-Toy train by Jair Trejo [CC-BY] via Poly Pizza, 
-Rolling Pin by Kenney, 
-Videogame Controller by Poly by Google [CC-BY] via Poly Pizza, 
-Crayons by Poly by Google [CC-BY] via Poly Pizza, 
-Astronaut by Poly by Google [CC-BY] via Poly Pizza, 
-Airplane by Poly by Google [CC-BY] via Poly Pizza, 
-Piggy bank by Poly by Google [CC-BY] via Poly Pizza, 
-Basketball by Poly by Google [CC-BY] via Poly Pizza, 
-Apple by Kenney, 
-Peppermint candy by Poly by Google [CC-BY] via Poly Pizza, 
-Candy heart by Poly by Google [CC-BY] via Poly Pizza, 
-Bear by jiang liu [CC-BY] via Poly Pizza
-
-________________________________________________________
-
-
-________________________________________________________
-
-
-**Exercise 4:** _"Pιnκy Pλane Sιmuλaτor"_
+**Game 1** _"Pιnκy Pλane Sιmuλaτor"_
 
 **Group team:** HongCheng and Alex
 
