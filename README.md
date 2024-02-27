@@ -1,8 +1,6 @@
 # My mini-games (not complete, just prototypes)
 
-**Game 1** _"Pιnκy Pλane Sιmuλaτor"_
-
-**Made by:** HongCheng and Alex
+**Game 1** _"Pinky Plane Simulator"_
 
 **How to play:** 
 W, A, and D to move forward and rotate. 
@@ -21,8 +19,6 @@ ________________________________________________________
 ________________________________________________________
 
 **Game 2** _"Coffee run"_
-
-**Made by:** HongCheng, MingHeng and Justin
 
 **How to play:** 
 WASD to move, LeftShift to sprint, Space to jump. 
@@ -48,8 +44,6 @@ ________________________________________________________
 
 
 **Game 3** _"Feast competition"_
- 
-**Made by:** Sara and HongCheng
 
 **How to play:** 
 Left mouse click to move. 
@@ -72,8 +66,6 @@ ________________________________________________________
 
 **Game 4** _"Rhythm game"_
 
-**Made by:** HongCheng Zhang
-
 **How to play:** 
 Press the keyboard buttons to play. 
 
@@ -93,8 +85,6 @@ ________________________________________________________
 ________________________________________________________
 
 **Game 5:** _"Pacman"_
-
-**Made by:** HongCheng Zhang
 
 **How to play:** 
 Press the WASD buttons to play. 
@@ -116,10 +106,6 @@ ________________________________________________________
 
 **Game 6:** _"The Value of Friendship"_
 
-**Made by:**
-Linden Killam, 
-Hongcheng Zhang<br>
-
 **How to play:** 
 WASD to move. 
 
@@ -137,9 +123,6 @@ ________________________________________________________
 
 **Game 7:** _"Procedural_Generation"_
 
-**Made by:**
-HongCheng
-
 **Game goal:**
 Fly as far as you can. 
 
@@ -150,16 +133,12 @@ Press Space to fly in the air.
 
 [**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/Procedural_generation) 
 
-
 ________________________________________________________
 
 
 ________________________________________________________
 
 **Game 8:** _"Distorted Rolling Ball"_
-
-**Made by:**
-HongCheng
 
 **Game goal:**
 Get all the coins and reach the final destination behind the glass door. 
@@ -170,3 +149,20 @@ WASD to move.
 [**Link to the game exe Build folder (Drive page)**](https://drive.google.com/drive/folders/1HucCMuU793FdEoQ9d-r4c7b9NqKMT5uu?usp=sharing) 
 
 [**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/DistortedRollingBall) 
+
+________________________________________________________
+
+
+________________________________________________________
+
+**Game 9:** _"Pixel Adventure"_
+
+**Game goal:**
+Help the hero to reach the divine tree. 
+
+**How to play:** 
+WD to move, space to jump, left shift to dash, left mouse click to attack.
+
+[**Link to the game exe Build folder (Drive page)**](https://drive.google.com/drive/folders/1qsot85RdMfB_oB3i-opQ4GefmlxoQl1N?usp=sharing) 
+
+[**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/PixelAdventure) 
