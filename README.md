@@ -2,8 +2,6 @@
 
 **Game 1** _"Pinky Plane Simulator"_
 
-**Made by:** HongCheng and Alex
-
 **How to play:** 
 W, A, and D to move forward and rotate. 
 Spacebar to increase elevation, S to decrease elevation. 
@@ -21,8 +19,6 @@ ________________________________________________________
 ________________________________________________________
 
 **Game 2** _"Coffee run"_
-
-**Made by:** HongCheng, MingHeng and Justin
 
 **How to play:** 
 WASD to move, LeftShift to sprint, Space to jump. 
@@ -48,8 +44,6 @@ ________________________________________________________
 
 
 **Game 3** _"Feast competition"_
- 
-**Made by:** Sara and HongCheng
 
 **How to play:** 
 Left mouse click to move. 
@@ -72,8 +66,6 @@ ________________________________________________________
 
 **Game 4** _"Rhythm game"_
 
-**Made by:** HongCheng Zhang
-
 **How to play:** 
 Press the keyboard buttons to play. 
 
@@ -93,8 +85,6 @@ ________________________________________________________
 ________________________________________________________
 
 **Game 5:** _"Pacman"_
-
-**Made by:** HongCheng Zhang
 
 **How to play:** 
 Press the WASD buttons to play. 
@@ -116,10 +106,6 @@ ________________________________________________________
 
 **Game 6:** _"The Value of Friendship"_
 
-**Made by:**
-Linden Killam, 
-Hongcheng Zhang<br>
-
 **How to play:** 
 WASD to move. 
 
@@ -136,9 +122,6 @@ ________________________________________________________
 ________________________________________________________
 
 **Game 7:** _"Procedural_Generation"_
-
-**Made by:**
-HongCheng
 
 **Game goal:**
 Fly as far as you can. 
@@ -157,9 +140,6 @@ ________________________________________________________
 
 **Game 8:** _"Distorted Rolling Ball"_
 
-**Made by:**
-HongCheng
-
 **Game goal:**
 Get all the coins and reach the final destination behind the glass door. 
 
@@ -176,9 +156,6 @@ ________________________________________________________
 ________________________________________________________
 
 **Game 9:** _"Pixel Adventure"_
-
-**Made by:**
-HongCheng
 
 **Game goal:**
 Help the hero to reach the divine tree. 
