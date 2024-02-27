@@ -33,9 +33,9 @@ Get as many Starbucks coffee as you can! Once you get a coffee, the Starbucks Ki
 **Special feature:** 
 Try to press the Sprint input many times to see what happens. 
 
-[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023/exercises/exercise05/play/) 
+[**Playable link to game**](https://zhang-ale.github.io/My-mini-games/CoffeeRun/play/) 
 
-[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise05) 
+[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/CoffeeRun) 
 
 **Asset Attribution:**
 Coffee cup by Poly by Google [CC-BY] via Poly Pizza
@@ -57,7 +57,7 @@ Left mouse click to move.
 **Game goal:** 
 Play as a vampire and collect more **brains** than the zombies. 
 
-[**Playable link to game**](https://SaraHashemii.github.io/game615-spring2023-06/exercise06/play/)
+[**Playable link to game**](https://SaraHashemii.github.io/My-mini-games/FeastCompetition/play/)
  
 [**Source link**](https://github.com/SaraHashemii/game615-spring2023-06/tree/main/exercise06)
  
