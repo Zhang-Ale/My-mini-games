@@ -1,8 +1,8 @@
-# My mini games
+# My mini-games (not complete, just prototypes)
 
 **Game 1** _"Pιnκy Pλane Sιmuλaτor"_
 
-**Group team:** HongCheng and Alex
+**Made by:** HongCheng and Alex
 
 **How to play:** 
 W, A, D to move forward and rotate. 
@@ -22,7 +22,7 @@ ________________________________________________________
 
 **Game 2** _"Coffee run"_
 
-**Group team:** HongCheng, MingHeng and Justin
+**Made by:** HongCheng, MingHeng and Justin
 
 **How to play:** 
 WASD to move, LeftShift to sprint, Space to jump. 
@@ -49,7 +49,7 @@ ________________________________________________________
 
 **Game 3** _"Feast competition"_
  
-**Group team:** Sara and HongCheng
+**Made by:** Sara and HongCheng
 
 **How to play:** 
 Left mouse click to move. 
@@ -72,7 +72,7 @@ ________________________________________________________
 
 **Game 4** _"Rhythm game"_
 
-**Student:** HongCheng Zhang
+**Made by:** HongCheng Zhang
 
 **How to play:** 
 Press the keyboard buttons to play. 
