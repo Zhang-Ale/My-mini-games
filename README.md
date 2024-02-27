@@ -5,7 +5,7 @@
 **Made by:** HongCheng and Alex
 
 **How to play:** 
-W, A, D to move forward and rotate. 
+W, A, and D to move forward and rotate. 
 Spacebar to increase elevation, S to decrease elevation. 
 
 **Game goal:** 
@@ -28,14 +28,14 @@ ________________________________________________________
 WASD to move, LeftShift to sprint, Space to jump. 
 
 **Game goal:** 
-Get as many Starbucks coffee as you can! Once you get a coffee, the Starbucks King will start chasing you! Avoid getting captured by the Starbucks King!  
+Get as much Starbucks coffee as you can! Once you get a coffee, the Starbucks King will start chasing you! Avoid getting captured by the Starbucks King!  
 
 **Special feature:** 
 Try to press the Sprint input many times to see what happens. 
 
 [**Playable link to game**](https://zhang-ale.github.io/My-mini-games/CoffeeRun/play/) 
 
-[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/CoffeeRun) 
+[**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/CoffeeRun) 
 
 **Asset Attribution:**
 Coffee cup by Poly by Google [CC-BY] via Poly Pizza
@@ -63,7 +63,7 @@ Play as a vampire and collect more **brains** than the zombies.
  
 **Asset Attribution:**
 Brain by Poly by Google [CC-BY] via Poly Pizza, 
-Low-Poly Park assest by Thunderent from Unity asset store. 
+Low-Poly Park asset by Thunderent from Unity asset store. 
 
 ________________________________________________________
 
@@ -78,7 +78,7 @@ ________________________________________________________
 Press the keyboard buttons to play. 
 
 **Game goal:**
-Hit as many point as you can! 
+Hit as many points as you can! 
 
 **Game reference:** 
 Genshin Impact's rhythm game ([**Video link**](https://youtu.be/1SY0WK3TPq0))
@@ -128,7 +128,7 @@ Move your character around with the arrow keys to meet new friends, and help gai
 
 [**Windows/Mac/Linux game build download link**](https://drive.google.com/drive/folders/1TO_rfPhTjZrvcFfB_lj6SD6vCLCwTERT?usp=sharing) 
 
-[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/TheValueOfFriendship) 
+[**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/TheValueOfFriendship) 
 
 ________________________________________________________
 
@@ -148,4 +148,11 @@ Press Space to fly in the air.
 
 [**Play link**](https://zhang-ale.github.io/My-mini-games/Procedural_generation/Build/) 
 
-[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/Procedural_generation) 
+[**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/Procedural_generation) 
+
+
+________________________________________________________
+
+
+________________________________________________________
+
