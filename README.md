@@ -146,6 +146,6 @@ Fly as far as you can.
 **How to play:** 
 Press Space to fly in the air.
 
-[**Play link**](https://zhang-ale.github.io/Game-625-Procedural_Generation/Procedural_generation/Build/) 
+[**Play link**](https://zhang-ale.github.io/My-mini-games/Procedural_generation/Build/) 
 
-[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/Procedural_Generation) 
+[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/Procedural_generation) 
