@@ -83,9 +83,9 @@ Hit as many point as you can!
 **Game reference:** 
 Genshin Impact's rhythm game ([**Video link**](https://youtu.be/1SY0WK3TPq0))
 
-[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023-midterm/play/)
+[**Playable link to game**](https://zhang-ale.github.io/My-mini-games/RhythmGame/play/)
  
-[**Source link**](https://github.com/Zhang-Ale/game615-spring2023-midterm/tree/main/)
+[**Source link**](https://github.com/Zhang-Ale/My-mini-games/tree/main/RhythmGame)
 
 ________________________________________________________
 
@@ -105,7 +105,7 @@ Kill 5 enemies after getting the power-up!
 **Game reference:** 
 Pacman [**Video link**](https://www.youtube.com/watch?v=dScq4P5gn4A&pp=ygULcGFjbWFuIGdhbWU%3D/)
 
-[**Playable link to game**](https://zhang-ale.github.io/Fall2023-Game-625-Pacman/Pacman_HongCheng/Build/)
+[**Playable link to game**](https://zhang-ale.github.io/My-mini-games/Pacman/Build/)
  
-[**Source link**](https://github.com/Zhang-Ale/Fall2023-Game-625-Pacman/tree/main)
+[**Source link**](https://github.com/Zhang-Ale/My-mini-games/tree/main/Pacman)
 
