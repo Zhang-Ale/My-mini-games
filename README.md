@@ -1,4 +1,4 @@
-# 2 Mini prototype games
+# My mini games
 
 **Game 1** _"Pιnκy Pλane Sιmuλaτor"_
 
@@ -20,7 +20,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-**Exercise 5:** _"Coffee run"_
+**Game 2** _"Coffee run"_
 
 **Group team:** HongCheng, MingHeng and Justin
 
@@ -47,7 +47,7 @@ ________________________________________________________
 ________________________________________________________
 
 
-**Exercise 06:** _"Feast competition"_
+**Game 3** _"Feast competition"_
  
 **Group team:** Sara and HongCheng
 
@@ -70,7 +70,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-**Midterm:** _"Rhythm game"_
+**Game 4** _"Rhythm game"_
 
 **Student:** HongCheng Zhang
 
@@ -88,49 +88,3 @@ Genshin Impact's rhythm game ([**Video link**](https://youtu.be/1SY0WK3TPq0))
 [**Source link**](https://github.com/Zhang-Ale/game615-spring2023-midterm/tree/main/)
 
 ________________________________________________________
-
-
-________________________________________________________
-
-**Exercise 07:** _"Narration try"_
-
-**Group team:** HongCheng Zhang, Yihua Pu
-
-**How to play:** 
-WD to move, I to interact, Space to jump and continue dialogue. 
-
-**Game goal:**
-Speak with the NPC. 
-
-[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023-07/build)
-
-[**Source link**](https://github.com/Zhang-Ale/game615-spring2023-07/tree/main/)
-
-**Plugin:** [**Ink-Unity plugin**](https://github.com/inkle/ink-unity-integration)
-
-________________________________________________________
-
-
-________________________________________________________
-
-**Exercise 08:** _"The room"_ (deleted)
-
-________________________________________________________
-
-
-________________________________________________________
-
-**Final:** _"King's quest"_
-
-**Student:** Olubunmi Adeloye, HongCheng Zhang. 
-
-**How to play:** 
-WASD to move, Space to jump, Mouse click to interact. 
-
-**Game goal:**
-Complete the quest from the Prince. 
-
-[**Drive link to download the game**](https://drive.google.com/drive/folders/19G7xJfkdOocILlWpi3dfDGkFLTAWmoOf?usp=sharing)
- 
-[**Source link**](https://github.com/Zhang-Ale/game615-spring2023-final/tree/main/)
-
