@@ -150,7 +150,6 @@ Press Space to fly in the air.
 
 [**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/Procedural_generation) 
 
-
 ________________________________________________________
 
 
@@ -170,3 +169,23 @@ WASD to move.
 [**Link to the game exe Build folder (Drive page)**](https://drive.google.com/drive/folders/1HucCMuU793FdEoQ9d-r4c7b9NqKMT5uu?usp=sharing) 
 
 [**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/DistortedRollingBall) 
+
+________________________________________________________
+
+
+________________________________________________________
+
+**Game 9:** _"Pixel Adventure"_
+
+**Made by:**
+HongCheng
+
+**Game goal:**
+Help the hero to reach the divine tree. 
+
+**How to play:** 
+WD to move, space to jump, left shift to dash, left mouse click to attack.
+
+[**Link to the game exe Build folder (Drive page)**](https://drive.google.com/drive/folders/1qsot85RdMfB_oB3i-opQ4GefmlxoQl1N?usp=sharing) 
+
+[**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/PixelAdventure) 
