@@ -1,6 +1,6 @@
 # My mini-games (not complete, just prototypes)
 
-**Game 1** _"Pιnκy Pλane Sιmuλaτor"_
+**Game 1** _"Pinky Plane Simulator"_
 
 **Made by:** HongCheng and Alex
 
