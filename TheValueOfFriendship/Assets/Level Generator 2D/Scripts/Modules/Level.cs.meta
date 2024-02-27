@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6c24829e21f221646ae855c5c54f2153
+timeCreated: 1465492873
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wallTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: a4f9c98e6efae8b4894335c4fd521060, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
