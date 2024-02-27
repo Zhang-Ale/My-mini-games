@@ -11,9 +11,9 @@ Spacebar to increase elevation, S to decrease elevation.
 **Game goal:** 
 Collect **8 coins in 2 minutes** to win!
 
-[**Playable link to game**](https://zhang-ale.github.io/My-mini-games/Mini-games/PinkyPlaneSimulator/play/) 
+[**Playable link to game**](https://zhang-ale.github.io/My-mini-games/PinkyPlaneSimulator/play/) 
 
-[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise04) 
+[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/PinkyPlaneSimulator) 
 
 ________________________________________________________
 
