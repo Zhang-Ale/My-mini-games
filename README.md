@@ -94,7 +94,7 @@ ________________________________________________________
 
 **Game 5:** _"Pacman"_
 
-**Student:** HongCheng Zhang
+**Made by:** HongCheng Zhang
 
 **How to play:** 
 Press the WASD buttons to play. 
@@ -108,4 +108,22 @@ Pacman [**Video link**](https://www.youtube.com/watch?v=dScq4P5gn4A&pp=ygULcGFjb
 [**Playable link to game**](https://zhang-ale.github.io/My-mini-games/Pacman/Build/)
  
 [**Source link**](https://github.com/Zhang-Ale/My-mini-games/tree/main/Pacman)
+
+________________________________________________________
+
+
+________________________________________________________
+
+**Game 6:** _"The Value of Friendship"_
+
+**Made by:**
+Linden Killam, 
+Hongcheng Zhang<br>
+
+**How to play:** 
+Move your character around with the arrow keys to meet new friends, and help gain valuable life experience!
+
+[**Windows/Mac/Linux game build download link**](https://drive.google.com/drive/folders/1TO_rfPhTjZrvcFfB_lj6SD6vCLCwTERT?usp=sharing) 
+
+[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/TheValueOfFriendship) 
 
