@@ -121,9 +121,31 @@ Linden Killam,
 Hongcheng Zhang<br>
 
 **How to play:** 
+WASD to move. 
+
+**Game goal:**
 Move your character around with the arrow keys to meet new friends, and help gain valuable life experience!
 
 [**Windows/Mac/Linux game build download link**](https://drive.google.com/drive/folders/1TO_rfPhTjZrvcFfB_lj6SD6vCLCwTERT?usp=sharing) 
 
 [**Link to source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/TheValueOfFriendship) 
 
+________________________________________________________
+
+
+________________________________________________________
+
+**Game 7:** _"Procedural_Generation"_
+
+**Made by:**
+HongCheng
+
+**Game goal:**
+Fly as far as you can. 
+
+**How to play:** 
+Press Space to fly in the air.
+
+[**Play link**](https://zhang-ale.github.io/Game-625-Procedural_Generation/Procedural_generation/Build/) 
+
+[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/Procedural_Generation) 
