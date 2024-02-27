@@ -24,11 +24,13 @@ public class PowerUpMovement : Subject
         menu = GameObject.FindGameObjectWithTag("Menu").GetComponent<Menu>();
         powerUp = gameObject.GetComponent<NavMeshAgent>();
         _destinations = GameObject.FindGameObjectsWithTag("Destination");
-        enemy = GameObject.FindGameObjectWithTag("Enemy");
+        enemy = GameObject.FindGameObjectWithTag("Enemy"); 
     }
 
     void Update()
     {
+        
+
         if (menu.gameStarted)
         {
             SetNextDestination();

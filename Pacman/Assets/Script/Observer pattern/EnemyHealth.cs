@@ -23,7 +23,7 @@ public class EnemyHealth : Observable
 
     public void Update()
     {
-        if(currentHealth == 0 && !notified)
+        if(currentHealth <= 0 && !notified)
         {
             Notify(this.gameObject, Action.OnEnemyDestroy);
             notified = true; 
@@ -57,13 +57,13 @@ public class EnemyHealth : Observable
 
     private void Awake()
     {
-        IObserver gm = GameObject.FindFirstObjectByType<PlayerActions>();
+        IObserver gm = GameObject.FindObjectOfType<PlayerActions>();
         AddObserver(gm);
     }
 
     private void OnDisable()
     {
-        IObserver gm = GameObject.FindFirstObjectByType<PlayerActions>();
+        IObserver gm = GameObject.FindObjectOfType<PlayerActions>();
         RemoveObserver(gm);
     }
 }

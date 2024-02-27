@@ -47,13 +47,13 @@ public class ShootSystem : Observable
 
     private void Awake()
     {
-        IObserver gm = GameObject.FindFirstObjectByType<PlayerActions>();
+        IObserver gm = GameObject.FindObjectOfType<PlayerActions>();
         AddObserver(gm);
     }
 
     private void OnDisable()
     {
-        IObserver gm = GameObject.FindFirstObjectByType<PlayerActions>();
+        IObserver gm = GameObject.FindObjectOfType<PlayerActions>();
         RemoveObserver(gm);
     }
 }
