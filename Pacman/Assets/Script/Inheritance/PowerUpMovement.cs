@@ -29,10 +29,18 @@ public class PowerUpMovement : Subject
 
     void Update()
     {
-        
 
         if (menu.gameStarted)
         {
+            if (!enemy)
+            {
+                enemy = GameObject.FindGameObjectWithTag("Enemy");
+                if (!enemy)
+                {
+                    return;
+                }
+            }
+
             SetNextDestination();
 
             var distanceToTarget = Vector3.Distance(transform.position, enemy.transform.position);
