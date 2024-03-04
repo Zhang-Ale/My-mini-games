@@ -26,10 +26,13 @@ public class EnemyHealth : Observable
         if(currentHealth <= 0 && !notified)
         {
             Notify(this.gameObject, Action.OnEnemyDestroy);
-            notified = true; 
             menu.AddPoint();
-            if(notified)
-            Destroy(this.gameObject, 1);
+            notified = true;
+            if (notified)
+            {
+                GetComponent<BoxCollider>().enabled = false; 
+                Destroy(this.gameObject, 1);
+            }            
         }
     }
 
