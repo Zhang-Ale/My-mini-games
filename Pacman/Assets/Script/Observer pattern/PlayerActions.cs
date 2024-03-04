@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI; 
 
 public class PlayerActions : MonoBehaviour, IObserver
 {
@@ -9,15 +10,15 @@ public class PlayerActions : MonoBehaviour, IObserver
     bool comboReset; 
     Coroutine _currentDestroyResetRoutine = null;
     Coroutine _currentPowerUpResetRoutine = null;
+    Coroutine _currentShotgunPowerUpResetRoutine = null;
     public AudioSource _audioPlayer1, _audioPlayer2;
     public AudioClip _shootAudioClip;
     public Animator comboAnim;
     public AudioClip _comboAudioClip;
     public AudioClip _collectAudioClip;
     public CameraScript CS;
-    public GameObject powerUpIcon;
+    public Image powerUpIcon, shotgunPowerUpIcon;
     public ParticleSystem splashPart;
-    public Transform enemyDeathPos; 
 
     public void OnNotify(GameObject GameObj, Action actionType)
     {
@@ -53,8 +54,19 @@ public class PlayerActions : MonoBehaviour, IObserver
                     StopCoroutine(_currentPowerUpResetRoutine);
                 }
                 _audioPlayer1.Play();
-                powerUpIcon.SetActive(true);
+                powerUpIcon.color += new Color(0f, 0f, 0f, 0.5f);
+                Debug.Log("ddd");
                 _currentPowerUpResetRoutine = StartCoroutine(PowerUpResetRoutine());
+                break;
+
+            case (Action.OnShotgunPowerUpCollect):
+                if (_currentShotgunPowerUpResetRoutine != null)
+                {
+                    StopCoroutine(_currentShotgunPowerUpResetRoutine);
+                }
+                _audioPlayer1.Play();
+                shotgunPowerUpIcon.color += new Color(0f, 0f, 0f, 0.5f);
+                _currentShotgunPowerUpResetRoutine = StartCoroutine(ShotgunPowerUpResetRoutine());
                 break;
 
             default:
@@ -72,7 +84,13 @@ public class PlayerActions : MonoBehaviour, IObserver
     IEnumerator PowerUpResetRoutine()
     {
         yield return new WaitForSeconds(5f);
-        powerUpIcon.SetActive(false);
+        powerUpIcon.color -= new Color(0f, 0f, 0f, 0.5f);
+    }
+
+    IEnumerator ShotgunPowerUpResetRoutine()
+    {
+        yield return new WaitForSeconds(5f);
+        shotgunPowerUpIcon.color -= new Color(0f, 0f, 0f, 0.5f);
     }
 
     IEnumerator ComboResetRoutine()

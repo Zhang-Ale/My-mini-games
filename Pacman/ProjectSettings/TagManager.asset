@@ -11,6 +11,7 @@ TagManager:
   - PUS
   - Wall
   - Bullet
+  - ShotgunPowerUp
   layers:
   - Default
   - TransparentFX

@@ -29,19 +29,10 @@ public class ShootSystem : Observable
     void ShootBullet(Vector3 direction)
     {
         pistolAnim.SetTrigger("Shoot"); 
-        for(int i = 0; i < 10; i++)
+        for(int i = 0; i < 1; i++)
         {
             GameObject bullet = Instantiate(_bulletPrefab, shootPosition.transform.position, Quaternion.identity);
             bullet.GetComponent<Rigidbody>().velocity = direction * forceMultiplicator;
-        }
-    }
-
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.tag == "PowerUp")
-        {
-            Notify(this.gameObject, Action.OnPowerUpCollect);
-            Destroy(other.gameObject);
         }
     }
 

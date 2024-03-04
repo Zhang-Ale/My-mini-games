@@ -6,12 +6,12 @@ public class EnemyHealth : Observable
 {
     int health = 3;
     public int currentHealth;
-    Menu menu;
     AudioSource AS;
     public Material whiteMat;
     MeshRenderer rend;
     Material ogMat;
     public bool notified; 
+
     void Start()
     {
         currentHealth = health;
@@ -35,7 +35,7 @@ public class EnemyHealth : Observable
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Bullet")
+        if (other.tag == "Bullet" )
         {
             FindObjectOfType<HitStop>().Stop(0.075f);
             StartCoroutine("TakeDamage");
