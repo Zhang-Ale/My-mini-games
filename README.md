@@ -18,20 +18,20 @@ ________________________________________________________
 
 ________________________________________________________
 
-**Game 2** _"Coffee run"_
+**Game 2** _"Latte run"_
 
 **How to play:** 
 WASD to move, LeftShift to sprint, Space to jump. 
 
 **Game goal:** 
-Get as much Starbucks coffee as you can! Once you get a coffee, the Starbucks King will start chasing you! Avoid getting captured by the Starbucks King!  
+Get as many Starbucks Lattes as you can! Once you get a coffee, the Starbucks King will start chasing you! Avoid getting captured by the Starbucks King!  
 
 **Special feature:** 
 Try to press the Sprint input many times to see what happens. 
 
-[**Playable link to game**](https://zhang-ale.github.io/My-mini-games/CoffeeRun/play/) 
+[**Playable link to game**](https://zhang-ale.github.io/My-mini-games/LatteRun/play/) 
 
-[**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/CoffeeRun) 
+[**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/LatteRun) 
 
 **Asset Attribution:**
 Coffee cup by Poly by Google [CC-BY] via Poly Pizza
