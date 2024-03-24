@@ -84,27 +84,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-**Game 5:** _"Pacman"_
-
-**How to play:** 
-Press the WASD buttons to play. 
-
-**Game goal:**
-Kill 5 enemies after getting the power-up!
-
-**Game reference:** 
-Pacman [**Video link**](https://www.youtube.com/watch?v=dScq4P5gn4A&pp=ygULcGFjbWFuIGdhbWU%3D/)
-
-[**Playable link to game**](https://zhang-ale.github.io/My-mini-games/Pacman/Build/)
- 
-[**Source link**](https://github.com/Zhang-Ale/My-mini-games/tree/main/Pacman)
-
-________________________________________________________
-
-
-________________________________________________________
-
-**Game 6:** _"The Value of Friendship"_
+**Game 5:** _"The Value of Friendship"_
 
 **How to play:** 
 WASD to move. 
@@ -121,7 +101,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-**Game 7:** _"Procedural_Generation"_
+**Game 6:** _"Procedural_Generation"_
 
 **Game goal:**
 Fly as far as you can. 
@@ -138,7 +118,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-**Game 8:** _"Distorted Rolling Ball"_
+**Game 7:** _"Distorted Rolling Ball"_
 
 **Game goal:**
 Get all the coins and reach the final destination behind the glass door. 
@@ -155,7 +135,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-**Game 9:** _"Pixel Adventure"_
+**Game 8:** _"Pixel Adventure"_
 
 **Game goal:**
 Help the hero to reach the divine tree. 
