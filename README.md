@@ -92,7 +92,7 @@ WASD to move.
 **Game goal:**
 Move your character around with the arrow keys to meet new friends, and help gain valuable life experience!
 
-[**Windows/Mac/Linux game build download link**](https://drive.google.com/drive/folders/1TO_rfPhTjZrvcFfB_lj6SD6vCLCwTERT?usp=sharing) 
+[**Windows/Mac/Linux game build download link (Drive)**](https://drive.google.com/drive/folders/1TO_rfPhTjZrvcFfB_lj6SD6vCLCwTERT?usp=sharing) 
 
 [**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/TheValueOfFriendship) 
 
@@ -126,7 +126,7 @@ Get all the coins and reach the final destination behind the glass door.
 **How to play:** 
 WASD to move.
 
-[**Link to the game exe Build folder (Drive page)**](https://drive.google.com/drive/folders/1HucCMuU793FdEoQ9d-r4c7b9NqKMT5uu?usp=sharing) 
+[**Windows/Mac/Linux game build download link (Drive)**](https://drive.google.com/drive/folders/1HucCMuU793FdEoQ9d-r4c7b9NqKMT5uu?usp=sharing) 
 
 [**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/DistortedRollingBall) 
 
@@ -143,6 +143,6 @@ Help the hero to reach the divine tree.
 **How to play:** 
 WD to move, space to jump, left shift to dash, left mouse click to attack.
 
-[**Link to the game exe Build folder (Drive page)**](https://drive.google.com/drive/folders/1qsot85RdMfB_oB3i-opQ4GefmlxoQl1N?usp=sharing) 
+[**Windows/Mac/Linux game build download link (Drive)**](https://drive.google.com/drive/folders/1qsot85RdMfB_oB3i-opQ4GefmlxoQl1N?usp=sharing) 
 
 [**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/PixelAdventure) 
