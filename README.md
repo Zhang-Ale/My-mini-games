@@ -71,6 +71,8 @@ ________________________________________________________
 
 **Game 4** _"Rhythm game"_
 
+![RhythmGame](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/5b30fec8-5153-4b57-8c35-11a2517f14e0)
+
 **How to play:** 
 Press the keyboard buttons to play. 
 
