@@ -1,7 +1,6 @@
 # My mini-games (not complete, just prototypes)
 
 **Game 1** _"Pinky Plane Simulator"_
-<img src="https://drive.google.com/file/d/1ptqfqgBUdu547sjNdFdV81bDAC9iLZae/view?usp=drive_link" width="100" height="100"/>
 ![PinkyPlaneSim3](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/ba58350b-ac1e-4e17-aadc-537d9ecf322e)
 
 **How to play:** 
