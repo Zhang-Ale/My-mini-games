@@ -49,6 +49,8 @@ ________________________________________________________
 
 **Game 3** _"Feast competition"_
 
+![FeastCompetition3](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/9b82b3ba-b560-4909-9b8f-a33ff7f61b75)
+
 **How to play:** 
 Left mouse click to move. 
 
