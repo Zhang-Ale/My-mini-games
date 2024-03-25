@@ -111,6 +111,8 @@ ________________________________________________________
 
 **Game 6:** _"Procedural_Generation"_
 
+![ProceduralGen2](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/e6a43c1a-71a8-4fb3-b67a-51e4525bd2f1)
+
 **Game goal:**
 Fly as far as you can. 
 
