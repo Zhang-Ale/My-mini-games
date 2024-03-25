@@ -2,6 +2,8 @@
 
 **Game 1** _"Pinky Plane Simulator"_
 
+![PinkyPlaneSim3](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/ba58350b-ac1e-4e17-aadc-537d9ecf322e)
+
 **How to play:** 
 W, A, and D to move forward and rotate. 
 Spacebar to increase elevation, S to decrease elevation. 
