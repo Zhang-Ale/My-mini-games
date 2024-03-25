@@ -1,7 +1,6 @@
 # My mini-games (not complete, just prototypes)
 
 **Game 1** _"Pinky Plane Simulator"_
-![ValuepfFriendship4](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/b4659c6f-912c-4828-ae80-21a4e1e482d4)
 
 **How to play:** 
 W, A, and D to move forward and rotate. 
@@ -86,7 +85,7 @@ ________________________________________________________
 ________________________________________________________
 
 **Game 5:** _"The Value of Friendship"_
-
+![ValuepfFriendship4](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/b4659c6f-912c-4828-ae80-21a4e1e482d4)
 **How to play:** 
 WASD to move. 
 
