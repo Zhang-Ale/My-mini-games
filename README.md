@@ -127,7 +127,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-**Game 7:** _"Distorted Rolling Ball"_
+**Game 7:** _"Rolling Ball"_
 
 ![DistortedRollBall1](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/4e0cad72-1900-4fa3-8176-813bbe7a97a2)
 
