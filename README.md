@@ -85,7 +85,8 @@ ________________________________________________________
 ________________________________________________________
 
 **Game 5:** _"The Value of Friendship"_
-![ValuepfFriendship4](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/b4659c6f-912c-4828-ae80-21a4e1e482d4)
+![ValuepfFriendship3](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/74a68fe6-f605-4464-ab0b-571ae7ebbb1d)
+
 **How to play:** 
 WASD to move. 
 
