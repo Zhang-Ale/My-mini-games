@@ -85,6 +85,7 @@ ________________________________________________________
 ________________________________________________________
 
 **Game 5:** _"The Value of Friendship"_
+
 ![ValuepfFriendship3](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/74a68fe6-f605-4464-ab0b-571ae7ebbb1d)
 
 **How to play:** 
