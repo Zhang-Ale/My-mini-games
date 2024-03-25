@@ -22,6 +22,8 @@ ________________________________________________________
 
 **Game 2** _"Latte run"_
 
+![LatterRun4](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/b464b57f-ff5c-4558-8cfa-99f6342dd29d)
+
 **How to play:** 
 WASD to move, LeftShift to sprint, Space to jump. 
 
