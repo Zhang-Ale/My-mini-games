@@ -135,9 +135,9 @@ ________________________________________________________
 Get all the coins and reach the final destination behind the glass door. 
 
 **How to play:** 
-WASD to move.
+WASD to move, Space to jump.
 
-[**Windows/Mac/Linux game build download link (Drive)**](https://drive.google.com/drive/folders/1HucCMuU793FdEoQ9d-r4c7b9NqKMT5uu?usp=sharing) 
+[**Windows/Mac/Linux game build download link (Drive)**](https://drive.google.com/drive/folders/1Ge_yK0xKNNF2Wx3ofNx8jSn7Ob8NVx9r?usp=sharing) 
 
 [**Link to the source (GitHub page)**](https://github.com/Zhang-Ale/My-mini-games/tree/main/DistortedRollingBall) 
 
