@@ -129,6 +129,8 @@ ________________________________________________________
 
 **Game 7:** _"Distorted Rolling Ball"_
 
+![DistortedRollBall1](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/4e0cad72-1900-4fa3-8176-813bbe7a97a2)
+
 **Game goal:**
 Get all the coins and reach the final destination behind the glass door. 
 
@@ -145,6 +147,8 @@ ________________________________________________________
 ________________________________________________________
 
 **Game 8:** _"Pixel Adventure"_
+
+![PixelAdventure3](https://github.com/Zhang-Ale/My-mini-games/assets/116378770/44377b92-1897-451f-b49b-19972e22de86)
 
 **Game goal:**
 Help the hero to reach the divine tree. 
