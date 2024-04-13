@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Collect
   - Button
+  - Bullet
   layers:
   - Default
   - TransparentFX
