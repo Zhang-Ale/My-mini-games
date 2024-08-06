@@ -9,6 +9,7 @@ TagManager:
   - Enemy
   - HealthBar
   - Pushable
+  - HitGround
   layers:
   - Default
   - TransparentFX

@@ -30,8 +30,6 @@ public class EnemyHPBar : MonoBehaviour
 
     void Update()
     {
-
-        
             if (TE.flipped)
             {
                 Slider.transform.position = Camera.main.WorldToScreenPoint(transform.parent.position + normalOffset);
@@ -40,6 +38,5 @@ public class EnemyHPBar : MonoBehaviour
             {
                 Slider.transform.position = Camera.main.WorldToScreenPoint(transform.parent.position + flippedOffset);
             }
-        
     }
 }

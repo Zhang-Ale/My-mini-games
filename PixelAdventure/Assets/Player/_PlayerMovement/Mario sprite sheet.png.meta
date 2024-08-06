@@ -246,7 +246,7 @@ TextureImporter:
       213: -3729672815153710988
     second: Mario sprite sheet_79
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -263,10 +263,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -275,12 +277,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -298,11 +300,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -314,6 +320,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -326,6 +333,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -338,6 +346,46 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -359,7 +407,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d5cf55fcb4e3ad960800000000000000
-      internalID: 7627477414227344477
+      internalID: 89120250682387967
       vertices: []
       indices: 
       edges: []
@@ -1949,9 +1997,85 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      Mario sprite sheet_0: 89120250682387967
+      Mario sprite sheet_1: -2001715979410157574
+      Mario sprite sheet_10: 8293295691284824258
+      Mario sprite sheet_11: 9079454930364288611
+      Mario sprite sheet_12: 1707607108812693115
+      Mario sprite sheet_13: 3667685815795330361
+      Mario sprite sheet_14: -4464620509677501442
+      Mario sprite sheet_15: 8098181058170814720
+      Mario sprite sheet_16: -5224089557662409141
+      Mario sprite sheet_17: 7967932616704767411
+      Mario sprite sheet_18: 2361703484507209461
+      Mario sprite sheet_19: 4872537058982277066
+      Mario sprite sheet_2: 10639236078109911
+      Mario sprite sheet_20: 4541023386049472862
+      Mario sprite sheet_21: 1735953460219667999
+      Mario sprite sheet_22: 6897924642593765690
+      Mario sprite sheet_23: -6838550023121573166
+      Mario sprite sheet_24: 2118636382592130538
+      Mario sprite sheet_25: -5171456671730990722
+      Mario sprite sheet_26: 8085588756339979856
+      Mario sprite sheet_27: -8566853248362939555
+      Mario sprite sheet_28: 7479046232009210118
+      Mario sprite sheet_29: -8154446107865683363
+      Mario sprite sheet_3: 8807971360372726785
+      Mario sprite sheet_30: -1457850693150051686
+      Mario sprite sheet_31: 1379185927637978928
+      Mario sprite sheet_32: -4268820553965148492
+      Mario sprite sheet_33: -2076917911654937607
+      Mario sprite sheet_34: 6574429212444419122
+      Mario sprite sheet_35: 6232057051745082462
+      Mario sprite sheet_36: -680776529839641944
+      Mario sprite sheet_37: -1270530095221105580
+      Mario sprite sheet_38: 9046550495414308924
+      Mario sprite sheet_39: -4979329279985860142
+      Mario sprite sheet_4: 1110558358932767298
+      Mario sprite sheet_40: 8598637121488239041
+      Mario sprite sheet_41: -4522125578182452262
+      Mario sprite sheet_42: -954691461752149282
+      Mario sprite sheet_43: 7643377812645330753
+      Mario sprite sheet_44: -5595049058962171642
+      Mario sprite sheet_45: 7380629762362087723
+      Mario sprite sheet_46: -6392029691980411965
+      Mario sprite sheet_47: -2279740198668077910
+      Mario sprite sheet_48: 7620768630822249310
+      Mario sprite sheet_49: 5605854847462961312
+      Mario sprite sheet_5: 560503738806450022
+      Mario sprite sheet_50: -8517789224148330403
+      Mario sprite sheet_51: -922979111995548334
+      Mario sprite sheet_52: -3563035943769104834
+      Mario sprite sheet_53: -6899945010632335817
+      Mario sprite sheet_54: -4731904173463570214
+      Mario sprite sheet_55: -7162777624582843838
+      Mario sprite sheet_56: 4828872522804296273
+      Mario sprite sheet_57: -7166048662898993253
+      Mario sprite sheet_58: -1804927176003473714
+      Mario sprite sheet_59: 3230937154560142307
+      Mario sprite sheet_6: 6683809737852186154
+      Mario sprite sheet_60: -6602038749967069870
+      Mario sprite sheet_61: -4160122232331020068
+      Mario sprite sheet_62: -486663805442245818
+      Mario sprite sheet_63: -3161734183057973693
+      Mario sprite sheet_64: -3477172202395378259
+      Mario sprite sheet_65: -1376868878172787609
+      Mario sprite sheet_66: 7371961828883411681
+      Mario sprite sheet_67: 1141903630373668013
+      Mario sprite sheet_68: 7734466322191859826
+      Mario sprite sheet_69: 2465043739834449269
+      Mario sprite sheet_7: 4074710674336737405
+      Mario sprite sheet_70: 5791555628313661081
+      Mario sprite sheet_71: -3693534645326527781
+      Mario sprite sheet_72: -292150442728593440
+      Mario sprite sheet_73: 7885954035476031765
+      Mario sprite sheet_74: 3032472321521756880
+      Mario sprite sheet_75: 5384790400889469418
+      Mario sprite sheet_8: -6602857246179616367
+      Mario sprite sheet_9: -8504946563591020069
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

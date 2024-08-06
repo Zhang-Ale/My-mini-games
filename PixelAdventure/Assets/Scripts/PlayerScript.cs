@@ -243,7 +243,7 @@ public class PlayerScript : MonoBehaviour
             PH.HealBack();
         }
 
-        if(collision.name == "HitGround" && !fallOnce) 
+        if(collision.tag == "HitGround" && !fallOnce) 
         {
             PH.DamagePlayer(800);
             fallOnce = true; 

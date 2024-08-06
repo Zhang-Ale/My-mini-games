@@ -132,7 +132,7 @@ public class TriggerEnemy : MonoBehaviour
     {
         StartCoroutine(ControlMove());
         currentHealth -= damage;
-        FlashColor(0.5f);
+        StartCoroutine(FlashColor(0.2f));
         if (!flipped) 
         {
             Instantiate(rightBloodEffect, transform.position, Quaternion.identity);
@@ -143,8 +143,12 @@ public class TriggerEnemy : MonoBehaviour
         }
     }
 
-    private void FlashColor(float time)
+    IEnumerator FlashColor(float time)
     {
+        yield return new WaitForSeconds(0.75f);
+        SR.color = Color.red;
+        Invoke("ResetColor", time);
+        yield return new WaitForSeconds(0.65f);
         SR.color = Color.red;
         Invoke("ResetColor", time);
     }
